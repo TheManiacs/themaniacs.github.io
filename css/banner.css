@@ -1,0 +1,23 @@
+#banner-chronos {
+  background-image: url('../images/ChronosMockup.jpg');
+}
+#banner-annoy-o-tron {
+  background-image: url('../images/annoy-o-tron/banner.jpg');
+  background-position: center center;
+}
+.banner {
+  background-size: cover;
+  background-position: 50% 85%;
+  color: #fff;
+  padding-bottom: 5rem;
+  margin-bottom: 3rem;
+  margin-top: 0;
+}
+.banner h1{
+  padding-top: 3rem;
+  margin-bottom: 0.5rem;
+  font-weight: 300;
+}
+.banner .subheading {
+  font-size: 1.5rem;
+}

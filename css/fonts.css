@@ -1,0 +1,29 @@
+/* Fonts */
+
+
+/* Anita Semi Square
+------------------------------------------------------------*/
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('../fonts/Roboto-Bold.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-link, .navbar-title {
+    font-family: "RobotoBold", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+/* Gidole Regular
+------------------------------------------------------------*/
+@font-face {
+    font-family: "RobotoRegular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Roboto-Regular.ttf") format("ttf");
+}
+
+body {
+    font-family: "RobotoRegular", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
